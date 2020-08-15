@@ -4,7 +4,7 @@
 
 - Probably grinding War Thunder or Minecraft right now.
 - Sometimes i like to play around with music production.
-- I co-run a minecraft server called SourCraft.
+- I co-run a Minecraft server called SourCraft.
 - I code various applications in various languages.
 - I love memes.
 - Somewhat experienced in OSINT.
