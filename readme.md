@@ -21,7 +21,9 @@
 <br />
 <br />
 
-[website]: https://rokas.gamingmix.eu
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+[website]: https://0x16.lt/
 [twitter]: https://twitter.com/momentofbruh
 [youtube]: https://youtube.com/channel/UCnxRonX5agFn63WUYhQgUVA
 [instagram]: https://instagram.com/definatelly_rokas/
