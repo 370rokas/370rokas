@@ -21,8 +21,6 @@
 <br />
 <br />
 
-[![Spotify](https://370rokas.vercel.app/api/spotify)](https://open.spotify.com/user/xg9ajmmrkntlejpbl3im2rh7e)
-
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=370rokas&show_icons=true&hide_border=true" />
 
 [website]: https://0x16.lt/
