@@ -21,7 +21,7 @@
 <br />
 <br />
 
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=370rokas&show_icons=true&hide_border=true" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=370rokas" />
 
 [website]: https://0x16.lt/
 [twitter]: https://twitter.com/momentofbruh
