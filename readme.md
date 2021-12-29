@@ -6,13 +6,11 @@
 I'm Rokas, an aspiring 15 yo developer from 🇱🇹 Lithuania.
 
 ## 🔧 My Projects
-
 - Founder @ 0x16 Studios: [@0x16studios][0x16studios]
 - Co-Owner @ SourCraft: [SourCraft.net][sourcraft]
 - Developer @ BlokaiMc: [blokai.tech][blokai]
 
 ## 📜 Languages i use
-
 - C++
 - Assembly (x86-64)
 - Python
@@ -23,9 +21,9 @@ I'm Rokas, an aspiring 15 yo developer from 🇱🇹 Lithuania.
 - Web: [0x16.lt][1]
 - Discord: [Rokas#6134][2]
 - Telegram: [@DecryptedBytes][3]
+- E-Mail: [370rokas@gmail.com][4]
 
 ## 📈 My GitHub stats
-
 <p align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=370rokas&theme=nord&show_icons=true" alt="generic stats">
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=370rokas&&theme=nord&show_icons=true" alt="streak stats"/>
@@ -36,6 +34,7 @@ I'm Rokas, an aspiring 15 yo developer from 🇱🇹 Lithuania.
 [1]: https://0x16.lt/
 [2]: https://discord.com/users/851859069987323904
 [3]: https://t.me/DecryptedBytes
+[4]: mailto:370rokas@gmail.com
 
 [0x16studios]: https://github.com/0x16studios/
 [sourcraft]: https://sourcraft.net/
