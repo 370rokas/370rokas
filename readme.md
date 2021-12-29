@@ -9,6 +9,7 @@ I'm Rokas, an aspiring 15 yo developer from 🇱🇹 Lithuania.
 
 - Founder @ 0x16 Studios: [@0x16studios][0x16studios]
 - Co-Owner @ SourCraft: [SourCraft.net][sourcraft]
+- Developer @ BlokaiMc: [blokai.tech][blokai]
 
 ## 📜 Languages i use
 
@@ -26,10 +27,10 @@ I'm Rokas, an aspiring 15 yo developer from 🇱🇹 Lithuania.
 ## 📈 My GitHub stats
 
 <p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=370rokas&theme=nord&show_icons=true" alt="Milaan's Github readme stats">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=370rokas&&theme=nord&show_icons=true" alt="milaan9"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=370rokas&theme=nord&show_icons=true" alt="generic stats">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=370rokas&&theme=nord&show_icons=true" alt="streak stats"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=370rokas&theme=nord&show_icons=true" alt="Milaan's Github readme stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=370rokas&theme=nord&show_icons=true" alt="language stats">
 </p>
 
 [1]: https://0x16.lt/
@@ -38,5 +39,6 @@ I'm Rokas, an aspiring 15 yo developer from 🇱🇹 Lithuania.
 
 [0x16studios]: https://github.com/0x16studios/
 [sourcraft]: https://sourcraft.net/
+[blokai]: https://blokai.tech/
 
 ![](https://hit.yhype.me/github/profile?user_id=58791226)
