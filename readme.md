@@ -3,7 +3,7 @@
 </h1>
 
 
-I'm Rokas, an aspiring 15 yo developer from 🇱🇹 Lithuania.
+I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
 
 ## 🔧 My Projects
 - Founder @ 0x16 Studios: [@0x16studios][0x16studios]
