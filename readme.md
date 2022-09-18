@@ -21,7 +21,7 @@ I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
 - Web: [0x16.lt][1]
 - Discord: [Rokas#6134][2]
 - Telegram: [@DecryptedBytes][3]
-- E-Mail: [370rokas@gmail.com][4]
+- E-Mail: [0x16dev@gmail.com][4]
 
 ## 📈 My GitHub stats
 <p align="center">
@@ -34,7 +34,7 @@ I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
 [1]: https://0x16.lt/
 [2]: https://discord.com/users/851859069987323904
 [3]: https://t.me/DecryptedBytes
-[4]: mailto:370rokas@gmail.com
+[4]: mailto:0x16dev@gmail.com
 
 [0x16studios]: https://github.com/0x16studios/
 [sourcraft]: https://sourcraft.net/
