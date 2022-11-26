@@ -7,7 +7,6 @@ I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
 
 ## 🔧 My Projects
 - Founder @ 0x16 Studios: [@0x16studios][0x16studios]
-- Co-Owner @ SourCraft: [SourCraft.net][sourcraft]
 - Developer @ BlokaiMc: [blokai.tech][blokai]
 
 ## 📜 Languages i use
@@ -37,7 +36,6 @@ I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
 [4]: mailto:0x16dev@gmail.com
 
 [0x16studios]: https://github.com/0x16studios/
-[sourcraft]: https://sourcraft.net/
 [blokai]: https://blokai.tech/
 
 ![](https://hit.yhype.me/github/profile?user_id=58791226)
