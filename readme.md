@@ -2,12 +2,7 @@
   hi there 👋🏻
 </h1>
 
-
 I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
-
-## 🔧 My Projects
-- Founder @ 0x16 Studios: [@0x16studios][0x16studios]
-- Developer @ BlokaiMc: [blokai.tech][blokai]
 
 ## 📜 Languages i use
 - C++
@@ -16,9 +11,15 @@ I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
 - Node.JS
 - Lua
 
+## 🔧 I've got experience in:
+- MySQL
+- Express.js
+- Avalonia
+
 ## 📬 Get in touch
+Feel free to contact me on any of these platforms, although i respond fastest on Discord or Telegram.
 - Web: [0x16.lt][1]
-- Discord: [Rokas#6134][2]
+- Discord: [@370rokas][2]
 - Telegram: [@DecryptedBytes][3]
 - E-Mail: [0x16dev@gmail.com][4]
 
@@ -34,8 +35,5 @@ I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
 [2]: https://discord.com/users/851859069987323904
 [3]: https://t.me/DecryptedBytes
 [4]: mailto:0x16dev@gmail.com
-
-[0x16studios]: https://github.com/0x16studios/
-[blokai]: https://blokai.tech/
 
 ![](https://hit.yhype.me/github/profile?user_id=58791226)
