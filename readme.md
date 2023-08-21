@@ -20,7 +20,6 @@ I'm Rokas, an aspiring 17 yo developer from 🇱🇹 Lithuania.
 
 ## 📬 Get in touch
 Feel free to contact me on any of these platforms, although i respond fastest on Discord or Telegram.
-- Web: [0x16.lt][1]
 - Discord: [@370rokas][2]
 - Telegram: [@DecryptedBytes][3]
 - E-Mail: [0x16dev@gmail.com][4]
@@ -33,8 +32,8 @@ Feel free to contact me on any of these platforms, although i respond fastest on
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=370rokas&theme=nord&show_icons=true" alt="language stats">
 </p>
 
-[1]: https://discord.com/users/851859069987323904
-[2]: https://t.me/DecryptedBytes
-[3]: mailto:0x16dev@gmail.com
+[2]: https://discord.com/users/851859069987323904
+[3]: https://t.me/DecryptedBytes
+[4]: mailto:0x16dev@gmail.com
 
 ![](https://hit.yhype.me/github/profile?user_id=58791226)
