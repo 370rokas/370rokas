@@ -11,10 +11,12 @@ I'm Rokas, an aspiring 17 yo developer from 🇱🇹 Lithuania.
 - Node.JS
 - Lua
 
-## 🔧 I've got experience in:
-- MySQL
+## 🔧 I've got experience with:
+- Python web scraping
+- Discord & Telegram bot development with Node.JS
 - Express.js
-- Avalonia
+- MySQL
+- memgraph
 
 ## 📬 Get in touch
 Feel free to contact me on any of these platforms, although i respond fastest on Discord or Telegram.
