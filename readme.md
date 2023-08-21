@@ -2,7 +2,7 @@
   hi there 👋🏻
 </h1>
 
-I'm Rokas, an aspiring 16 yo developer from 🇱🇹 Lithuania.
+I'm Rokas, an aspiring 17 yo developer from 🇱🇹 Lithuania.
 
 ## 📜 Languages i use
 - C++
