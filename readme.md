@@ -2,35 +2,29 @@
   hi there 👋🏻
 </h1>
 
-I'm Rokas, an aspiring 17 yo developer from 🇱🇹 Lithuania.
+<p align="center">
+some random dude from Lithuania, dabbling in a little bit of code.
+</p>
+  
+## 📈 My stats
+<p align="center">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=370rokas&theme=nord&show_icons=true&layout=compact&hide_border=true" alt="generic stats">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=370rokas&&theme=nord&show_icons=true&layout=compact&hide_border=true" alt="streak stats"/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@370rokas&theme=nord&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" alt="coding time stats">
+</p>
 
-## 📜 Languages i use
-- C++
-- Assembly (x86-64)
-- Python
-- Node.JS
-- Lua
+<p align="center">
+  <img src="https://wakatime.com/badge/user/060c80f4-9831-4bb6-b9ff-f73f6ef20f9a.svg?style=flat-square" alt="Total time coded since Aug 9 2023" />
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/370rokas?style=flat-square&label=github%20repo%20stars">
 
-## 🔧 I've got experience with:
-- Python web scraping
-- Discord & Telegram bot development with Node.JS
-- Express.js
-- MySQL
-- memgraph
+</p>
 
 ## 📬 Get in touch
 Feel free to contact me on any of these platforms, although i respond fastest on Discord or Telegram.
 - Discord: [@370rokas][2]
 - Telegram: [@DecryptedBytes][3]
 - E-Mail: [0x16dev@gmail.com][4]
-
-## 📈 My GitHub stats
-<p align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=370rokas&theme=nord&show_icons=true" alt="generic stats">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=370rokas&&theme=nord&show_icons=true" alt="streak stats"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=370rokas&theme=nord&show_icons=true" alt="language stats">
-</p>
 
 [2]: https://discord.com/users/851859069987323904
 [3]: https://t.me/DecryptedBytes
